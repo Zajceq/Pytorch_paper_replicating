@@ -1,1 +1,1 @@
-# Pytorch_paper_replicating
+This repository contains one of my Google Colab notebooks focused on learning PyTorch. In this project, I replicate the Vision Transformer (ViT) architecture/paper with PyTorch: https://arxiv.org/abs/2010.11929.
